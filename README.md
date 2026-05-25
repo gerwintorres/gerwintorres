@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gerwin Torres</h1>
+<h1 align="center">Hey, I'm Gerwin Torres</h1>
 
 <h3 align="center">
 Software Engineer focused on Backend Development, Automation and Business Solutions
@@ -33,7 +33,7 @@ Software Engineer focused on Backend Development, Automation and Business Soluti
 
 <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gerwintorres&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gerwintorres&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gerwintorres&layout=donut&theme=tokyonight&hide_border=true&hide=html,scss,jupyter%20notebook,shell,php&langs_count=6"/>
 
 </div>
 

@@ -1,86 +1,29 @@
-<h1 align="center">Hey, I'm Gerwin Torres</h1>
+<p>
+  <a href="https://gerwintorres.com">
+    <img src="banner/banner.svg" width="100%" alt="Gerwin Lambraño Torres, Python backend engineer. gerwintorres.com">
+  </a>
+</p>
 
-<h3 align="center">
-Software Engineer focused on Backend Development, Automation and Business Solutions
-</h3>
+I'm a software engineer at [oiDATA](https://oidata.com.co/) in Pereira, Colombia. I design backend services and data systems in Python and take them safely to production with FastAPI, Docker and CI/CD, on-premise or in the cloud.
 
----
+### Recent work
 
-## 🚀 About Me
+- **Nationwide WhatsApp channel for Colombia's National Planning Department.** Signed webhooks, a message queue with one session per citizen and background workers on Azure, with infrastructure as code and 90 tests in CI. The first version was in production one week after kickoff.
+- **Public policy tracking system for Pereira City Hall.** A capture app and a [public dashboard](https://pppp2025.pereira.gov.co/) where 58 officials from 19 city departments report on 14 policies, with 1.1 million citizen interactions tracked in 2025. It runs on the city's own Linux servers with Docker, Traefik and continuous deployment.
+- **Purchase-order automation for a spare-parts importer.** An ETL pipeline that cut each order from about 28 hours of spreadsheet work to about 5.
 
-- 💻 Backend developer specialized in Python & FastAPI
-- 📊 Passionate about automation, data analysis and business-oriented solutions
-- ⚡ Increased automated report generation capacity from 2,500 to 150,000+ PDFs/month
-- ⏱️ Reduced operational estimation processes from 1 week to ~1 hour
-- 🌱 Currently strengthening skills in React, TypeScript and modern frontend development
-- 🎓 Python & Streamlit instructor at Universidad Tecnológica de Pereira (UTP)
+Client code stays private; [my website](https://gerwintorres.com/#projects) walks through each case with its architecture.
 
----
+### In the open
 
-## 🛠️ Tech Stack
+- [**reorder**](https://github.com/gerwintorres/reorder): an API that estimates weekly demand per product from its sales history, with the rule and inputs behind each estimate. FastAPI on Cloud Run, [live](https://reorder-873158321037.us-central1.run.app/docs) and in progress.
+- [**gerwintorres.com**](https://github.com/gerwintorres/gerwintorres.com): the source of my website, in English and Spanish.
+- [**backend-lab**](https://github.com/gerwintorres/backend-lab): exercises, katas and tests from my backend study route.
 
-<div align="center">
+### Stack
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,mongodb,docker,git,github,linux,ts,react,tailwind,gcp,postman,bash" />
+<img src="https://skillicons.dev/icons?i=python,fastapi,postgres,mysql,docker,linux,githubactions,gcp,azure,git" alt="Python, FastAPI, PostgreSQL, MySQL, Docker, Linux, GitHub Actions, Google Cloud, Azure and Git">
 
-</div>
+### Contact
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=gerwintorres&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gerwintorres&layout=donut&theme=tokyonight&hide_border=true&hide=html,scss,jupyter%20notebook,shell,php&langs_count=6"/>
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=gerwintorres&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-## 📚 Currently Learning
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-
-<br><br>
-
-<img src="https://img.shields.io/badge/Power%20Apps-742774?style=for-the-badge&logo=powerapps&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Dataverse-0F6CBD?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Power%20Platform-742774?style=for-the-badge&logo=microsoft&logoColor=white"/>
-
-</div>
-
----
-
-## 📫 Contact
-
-<div align="center">
-
-<a href="mailto:ger.lamto@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/gerwintorres">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
+[gerwintorres.com](https://gerwintorres.com) · [LinkedIn](https://www.linkedin.com/in/gerwintorres/) · [ger.lamto@gmail.com](mailto:ger.lamto@gmail.com)

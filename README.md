@@ -4,7 +4,7 @@
   </a>
 </p>
 
-I'm a software engineer at [oiDATA](https://oidata.com.co/) in Pereira, Colombia. I design backend services and data systems in Python and take them safely to production with FastAPI, Docker and CI/CD, on-premise or in the cloud.
+I'm a software engineer in Pereira, Colombia. I design backend services and data systems in Python and take them safely to production with FastAPI, Docker and CI/CD, on-premise or in the cloud.
 
 ### Recent work
 
